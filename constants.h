@@ -1,3 +1,7 @@
+#ifndef PATH_H
+#define PATH_H
+
+
 #include <string>
 using namespace std;
 
@@ -39,3 +43,5 @@ public:
         return "version";
     }
 };
+
+#endif // PATH_H
